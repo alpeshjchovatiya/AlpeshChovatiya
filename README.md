@@ -5,11 +5,11 @@ I am a highly motivated Data Science professional with a strong drive to harness
 
 ### 🔧 Technologies & Skills
 
-* Technical: Python | SQL | Tableau | PowerBI | Machine Learning | Deep Learning | Microsoft Azure |  Excel | PowerPoint | Data visualization | Exploratory Data analysis |
+* Technical:* Python | SQL | Tableau | PowerBI | Machine Learning | Deep Learning | Microsoft Azure |  Excel | PowerPoint | Data visualization | Exploratory Data analysis |
              Big data hadoop | Data mining | Statistics | Data preprocessing | Flask |  Neural Network | TensorFlow |  PyTorch | Scikit-Learn |  Pandas | NumPy | Matplotlib
             |Seaborn | MLOps | NLP | Feature engineering | Model evaluation
   
-* Business: Ability To Communicate |  Problem Solving | Attention To Detail | Time management | Teamwork 
+* Business:* Ability To Communicate |  Problem Solving | Attention To Detail | Time management | Teamwork 
 
 
 ### 💼 Work Experience
