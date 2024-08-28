@@ -29,7 +29,7 @@ Doctor of Medicine - Smolensk State Medical University
 
 ### 🛠️ Projects
 
-[**Water Potability Prediction:**](https://github.com/alpeshjchovatiya/Water_Potability_Prediction):
+[**Water Potability Prediction:**](https://github.com/alpeshjchovatiya/Water_Potability_Prediction)
 Developed a machine learning model to predict water potability using key water quality parameters (e.g., pH, hardness, turbidity).
 The model will classify water as potable or non-potable, offering a fast, reliable tool for assessing drinking water safety.
 
@@ -48,9 +48,9 @@ Destination city, Class, Duration, and Days left.
 Built the ANN model to predict whether a Customer will leave the bank or not using features like Credit Score, Geography, Gender, Age, Tenure, Balance, 
 Number Of Products, Has CrCard, IsActiveMember, and Estimated Salary.
 
-[**IBM Data Science Capstone Project**](https://github.com/alpeshjchovatiya/IBM-Data-Science-Capstone-Project/tree/main):
+[**IBM Data Science Capstone Project:**](https://github.com/alpeshjchovatiya/IBM-Data-Science-Capstone-Project/tree/main)
 Developed a machine learning model to predict if the Falcon 9 first stage will land successfully or not.
 
-[**Data Visualization with Power BI and Tableau**](https://github.com/alpeshjchovatiya/PowerBI-Tableau---Auto-theft-from-GTA):
+[**Data Visualization with Power BI and Tableau:**](https://github.com/alpeshjchovatiya/PowerBI-Tableau---Auto-theft-from-GTA)
 Developed a Power BI and Tableau to analyze Cars stolen from Greater Toronto Area between Years 2013 to 2023.
 
