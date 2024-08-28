@@ -1,3 +1,5 @@
+#### Hello there, I am Alpesh Chovatiya
+
 📍 Vaughan, Canada, ON | 📧 alpeshjchovatiya@gmail.com
 
 I am a highly motivated Data Science professional with a strong drive to harness data insights and analytics to enhance organizational processes. I am committed to unlocking the value of data through modern analytical models, machine learning, deep learning, and data visualization. With expertise in SQL, Python, SAS, and Tableau, I aim to develop dynamic dashboards, create high-quality data sets, and accurately predict outcomes. I am eager to leverage my knowledge and experience to quickly become a valuable asset to the organization.
