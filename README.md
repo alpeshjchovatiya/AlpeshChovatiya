@@ -6,8 +6,8 @@ I am a highly motivated Data Science professional with a strong drive to harness
 ### 🔧 Technologies & Skills
 
 **Technical:** Python | SQL | Tableau | PowerBI | Machine Learning | Deep Learning | Microsoft Azure |  Excel | PowerPoint | Data visualization | Exploratory Data analysis |
-             Big data hadoop | Data mining | Statistics | Data preprocessing | Flask |  Neural Network | TensorFlow |  PyTorch | Scikit-Learn |  Pandas | NumPy | Matplotlib
-            |Seaborn | MLOps | NLP | Feature engineering | Model evaluation
+               Big data hadoop | Data mining | Statistics | Data preprocessing | Flask |  Neural Network | TensorFlow |  PyTorch | Scikit-Learn |  Pandas | NumPy | Matplotlib |
+               Seaborn | MLOps | NLP | Feature engineering | Model evaluation
   
 **Business:** Ability To Communicate |  Problem Solving | Attention To Detail | Time management | Teamwork 
 
@@ -45,4 +45,7 @@ Number Of Products, Has CrCard, IsActiveMember, and Estimated Salary.
 
 [**IBM Data Science Capstone Project**](https://github.com/alpeshjchovatiya/IBM-Data-Science-Capstone-Project/tree/main):
 Developed a machine learning model to predict if the Falcon 9 first stage will land successfully or not.
+
+[**Data Visualization with Power BI and Tableau **](https://github.com/alpeshjchovatiya/PowerBI-Tableau---Auto-theft-from-GTA):
+Developed a Power BI and Tableau to analyze Cars stolen from Greater Toronto Area between Years 2013 to 2023..
 
