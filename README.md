@@ -43,3 +43,6 @@ Destination city, Class, Duration, and Days left.
 Built the ANN model to predict whether a Customer will leave the bank or not using features like Credit Score, Geography, Gender, Age, Tenure, Balance, 
 Number Of Products, Has CrCard, IsActiveMember, and Estimated Salary.
 
+#### IBM Data Science Capstone Project:https://github.com/alpeshjchovatiya/IBM-Data-Science-Capstone-Project/tree/main 
+Developed a machine learning model to predict if the Falcon 9 first stage will land successfully or not.
+
