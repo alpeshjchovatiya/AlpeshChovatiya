@@ -29,7 +29,7 @@ Doctor of Medicine - Smolensk State Medical University
 
 ### 🛠️ Projects
 
-[**Water Potability Prediction**](https://github.com/alpeshjchovatiya/Water_Potability_Prediction)
+[**Water Potability Prediction:**](https://github.com/alpeshjchovatiya/Water_Potability_Prediction):
 Developed a machine learning model to predict water potability using key water quality parameters (e.g., pH, hardness, turbidity).
 The model will classify water as potable or non-potable, offering a fast, reliable tool for assessing drinking water safety.
 
