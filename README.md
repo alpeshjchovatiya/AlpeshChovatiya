@@ -2,6 +2,9 @@
 
 I am a highly motivated Data Science professional with a strong drive to harness data insights and analytics to enhance organizational processes. I am committed to unlocking the value of data through modern analytical models, machine learning, deep learning, and data visualization. With expertise in SQL, Python, SAS, and Tableau, I aim to develop dynamic dashboards, create high-quality data sets, and accurately predict outcomes. I am eager to leverage my knowledge and experience to quickly become a valuable asset to the organization.
 
+### This repository contains my portfolio of data science and machine learning projects. It showcases various techniques and tools I've used, including Python, Power BI, and Tableau, to analyze and visualize data, and various machine learning and deep learning algorithms to built predictive models.
+
+
 
 ### 🔧 Technologies & Skills
 
@@ -46,6 +49,6 @@ Number Of Products, Has CrCard, IsActiveMember, and Estimated Salary.
 [**IBM Data Science Capstone Project**](https://github.com/alpeshjchovatiya/IBM-Data-Science-Capstone-Project/tree/main):
 Developed a machine learning model to predict if the Falcon 9 first stage will land successfully or not.
 
-[**Data Visualization with Power BI and Tableau **](https://github.com/alpeshjchovatiya/PowerBI-Tableau---Auto-theft-from-GTA):
-Developed a Power BI and Tableau to analyze Cars stolen from Greater Toronto Area between Years 2013 to 2023..
+[**Data Visualization with Power BI and Tableau**](https://github.com/alpeshjchovatiya/PowerBI-Tableau---Auto-theft-from-GTA):
+Developed a Power BI and Tableau to analyze Cars stolen from Greater Toronto Area between Years 2013 to 2023.
 
