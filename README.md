@@ -3,11 +3,14 @@
 I am a highly motivated Data Science professional with a strong drive to harness data insights and analytics to enhance organizational processes. I am committed to unlocking the value of data through modern analytical models, machine learning, deep learning, and data visualization. With expertise in SQL, Python, SAS, and Tableau, I aim to develop dynamic dashboards, create high-quality data sets, and accurately predict outcomes. I am eager to leverage my knowledge and experience to quickly become a valuable asset to the organization.
 
 
-### 🔧 Technologies & Tools
+### 🔧 Technologies & Skills
 
-Languages: Python, R, SQL, SAS               
-Data Science Stack: pandas, scikit-learn, seaborn, Tableau, PowerBI              
-Software Engineering Stack: React, Git, Node.js, Flask, Dash
+* Technical: Python | SQL | Tableau | PowerBI | Machine Learning | Deep Learning | Microsoft Azure |  Excel | PowerPoint | Data visualization | Exploratory Data analysis |
+             Big data hadoop | Data mining | Statistics | Data preprocessing | Flask |  Neural Network | TensorFlow |  PyTorch | Scikit-Learn |  Pandas | NumPy | Matplotlib
+            |Seaborn | MLOps | NLP | Feature engineering | Model evaluation
+  
+* Business: Ability To Communicate |  Problem Solving | Attention To Detail | Time management | Teamwork 
+
 
 ### 💼 Work Experience
 
