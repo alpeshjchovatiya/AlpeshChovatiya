@@ -5,8 +5,8 @@ I am a highly motivated Data Science professional with a strong drive to harness
 
 ### 🔧 Technologies & Tools
 
-Languages: Python, R, SQL, SAS
-Data Science Stack: pandas, scikit-learn, seaborn, Tableau, PowerBI
+Languages: Python, R, SQL, SAS               
+Data Science Stack: pandas, scikit-learn, seaborn, Tableau, PowerBI              
 Software Engineering Stack: React, Git, Node.js, Flask, Dash
 
 ### 💼 Work Experience
@@ -15,7 +15,7 @@ Business Data Analyst at Edelcon Inc. (02/2021 – 12/2023 | Toronto, ON)
 
 ### 🎓 Education
 
-Diploma in Data Science and Application  - Metro College of Technology
+Diploma in Data Science and Application  - Metro College of Technology                      
 Bachelor's in Computer Application (110/110 with honors) - Indian School of Technology & Management
 Doctor of Medicine - Smolensk State Medical University
 
