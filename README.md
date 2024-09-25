@@ -33,18 +33,18 @@ Doctor of Medicine - Smolensk State Medical University
 Developed a machine learning model to predict water potability using key water quality parameters (e.g., pH, hardness, turbidity).
 The model will classify water as potable or non-potable, offering a fast, reliable tool for assessing drinking water safety.
 
-[**Drug Consumption Prediction**] 
+[**Drug Consumption Prediction**](https://github.com/alpeshjchovatiya/Drug_Consumption_Prediction)
 Developed a machine learning model to predict Cannabis drug consumption using features like Cocaine, Neuroticism Score, Extraversion Score, Openness Score, 
 Agreeableness Score, Conscientiousness Score, Age Group, Country etc.).
                            
-[**Bio-Signal Indicators for Smoking Behavior**]
+[**Bio-Signal Indicators for Smoking Behavior**](https://github.com/alpeshjchovatiya/Bio-signal_Smoking_Classification)
 Utilizing machine learning to analyze bio-signal data for indicators of smoking behavior, showcasing the potential of Machine Learning in health  informatics.
 
 [**Flight Booking Price Prediction**](https://github.com/alpeshjchovatiya/Flight_Booking_Price_Prediction)
 Developed a machine learning model to predict a price for flight booking using features like Airline, Flight, Source city, Departure time, Stops, Arrival time, 
 Destination city, Class, Duration, and Days left.
 
-[**Bank Customer Churn Prediction with Deep Learning**]
+[**Bank Customer Churn Prediction with Deep Learning(ANN)**](https://github.com/alpeshjchovatiya/Customer_Churn_Prediction_ANN)
 Built the ANN model to predict whether a Customer will leave the bank or not using features like Credit Score, Geography, Gender, Age, Tenure, Balance, 
 Number Of Products, Has CrCard, IsActiveMember, and Estimated Salary.
 
