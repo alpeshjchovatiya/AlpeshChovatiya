@@ -40,7 +40,7 @@ Agreeableness Score, Conscientiousness Score, Age Group, Country etc.).
 [**Bio-Signal Indicators for Smoking Behavior**]
 Utilizing machine learning to analyze bio-signal data for indicators of smoking behavior, showcasing the potential of Machine Learning in health  informatics.
 
-[**Flight Booking Price Prediction**]
+[**Flight Booking Price Prediction**](https://github.com/alpeshjchovatiya/Flight_Booking_Price_Prediction)
 Developed a machine learning model to predict a price for flight booking using features like Airline, Flight, Source city, Departure time, Stops, Arrival time, 
 Destination city, Class, Duration, and Days left.
 
