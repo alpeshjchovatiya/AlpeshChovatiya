@@ -14,18 +14,8 @@ I am a highly motivated Data Science professional with a strong drive to harness
                Big data hadoop | Data mining | Statistics | Data preprocessing | Flask |  Neural Network | TensorFlow |  PyTorch | 
                Scikit-Learn |  Pandas | NumPy | Matplotlib | Seaborn | MLOps | NLP | Feature engineering | Model evaluation
   
-**Business:** Ability To Communicate |  Problem Solving | Attention To Detail | Time management | Teamwork 
+**Business:** Ability To Communicate |  Problem Solving | Attention To Detail | Time management | Teamwork
 
-
-### 💼 Work Experience
-
-Business Data Analyst at Edelcon Inc. (02/2021 – 12/2023 | Toronto, ON)
-
-### 🎓 Education
-
-Diploma in Data Science and Application  - Metro College of Technology                      
-Bachelor's in Computer Application - Indian School of Technology & Management              
-Doctor of Medicine - Smolensk State Medical University
 
 ### 🛠️ Projects
 
