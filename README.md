@@ -44,5 +44,5 @@ Developed a machine learning model to predict if the Falcon 9 first stage will l
 [**Data Visualization with Power BI and Tableau:**](https://github.com/alpeshjchovatiya/PowerBI-Tableau---Auto-theft-from-GTA)
 Developed a Power BI and Tableau to analyze Cars stolen from Greater Toronto Area between Years 2013 to 2023.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=alpeshjchovatiya&color=blue)
 
